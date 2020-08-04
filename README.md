@@ -1,6 +1,7 @@
 # Kaggle_Inital
 for Kaggle PRELIMINARY Study :+1:
 标记：
+https://www.yuque.com/books/share/691358c9-4a47-442f-b1c1-193bcf9cba04
 |星期|1|2|3|4|5|6|7|
 |---|---|---|---|---|---|---|---|
 |早餐|香蕉牛奶燕麦粥|皮蛋瘦肉粥|蜂蜜小蛋糕|灌汤包|南瓜饼|肉末蛋羹|豆浆油条|
